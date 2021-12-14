@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UoQxSde5KczA0SogIiDz8KDsUiNRgYM8yh4UPGAkWPLXqTHdybrAtDb/d7wceWOzPd9w20XmJQ/P3ujxFl+qAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manoel.ribeiro.neto\\source\\repos\\SalaoBeleza\\SalaoBeleza.API\\SalaoBeleza.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manoel.ribeiro.neto\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\manoel.ribeiro.neto\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\manoel.ribeiro.neto\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\manoel.ribeiro.neto\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\manoel.ribeiro.neto\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\manoel.ribeiro.neto\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\manoel.ribeiro.neto\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
