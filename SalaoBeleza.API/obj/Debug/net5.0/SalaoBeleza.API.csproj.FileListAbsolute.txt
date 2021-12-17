@@ -11,7 +11,6 @@ C:\Users\manoel.ribeiro.neto\source\repos\SalaoBeleza\SalaoBeleza.API\bin\Debug\
 C:\Users\manoel.ribeiro.neto\source\repos\SalaoBeleza\SalaoBeleza.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\manoel.ribeiro.neto\source\repos\SalaoBeleza\SalaoBeleza.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\manoel.ribeiro.neto\source\repos\SalaoBeleza\SalaoBeleza.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\manoel.ribeiro.neto\source\repos\SalaoBeleza\SalaoBeleza.API\obj\Debug\net5.0\SalaoBeleza.API.csproj.AssemblyReference.cache
 C:\Users\manoel.ribeiro.neto\source\repos\SalaoBeleza\SalaoBeleza.API\obj\Debug\net5.0\SalaoBeleza.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\manoel.ribeiro.neto\source\repos\SalaoBeleza\SalaoBeleza.API\obj\Debug\net5.0\SalaoBeleza.API.AssemblyInfoInputs.cache
 C:\Users\manoel.ribeiro.neto\source\repos\SalaoBeleza\SalaoBeleza.API\obj\Debug\net5.0\SalaoBeleza.API.AssemblyInfo.cs
