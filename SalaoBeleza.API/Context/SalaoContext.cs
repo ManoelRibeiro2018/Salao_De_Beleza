@@ -14,9 +14,9 @@ namespace SalaoBeleza.API.Context
 
         }
 
-        public DbSet<Usuario>  Usuarios { get; set; }
-        public DbSet<Servico>  Servicos { get; set; }
-        public DbSet<TipoServico>  TipoServicos { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<Servico> Servicos { get; set; }
+        public DbSet<TipoServico> TipoServicos { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
