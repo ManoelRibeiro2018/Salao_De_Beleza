@@ -5,8 +5,10 @@ using System.Threading.Tasks;
 
 namespace SalaoBeleza.API.Model
 {
-    public class TipoServico : EntidadeBase
+    public class TipoServico
     {
+
+        public int Id { get; set; }
         public string Nome { get; private set; }
         public string Descricao { get; private set; }
         public decimal Preco { get; set; }

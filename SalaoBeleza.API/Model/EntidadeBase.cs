@@ -7,6 +7,5 @@ namespace SalaoBeleza.API.Model
 {
     public abstract class EntidadeBase
     {
-        public int Id { get; set; }
     }
 }
