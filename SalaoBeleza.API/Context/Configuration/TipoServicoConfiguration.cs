@@ -8,17 +8,13 @@ using System.Threading.Tasks;
 
 namespace SalaoBeleza.API.Context.Configuration
 {
-    public class ServicoConfiguration : IEntityTypeConfiguration<Servico>
+    public class TipoServicoConfiguration : IEntityTypeConfiguration<TipoServico>
     {
-        public void Configure(EntityTypeBuilder<Servico> builder)
+        public void Configure(EntityTypeBuilder<TipoServico> builder)
         {
             builder
-                .HasOne(s => s.Usuario);
-
-            builder
-             .HasMany(s => s.TipoServicos)
-             .WithMany(t => t.Servicos);
-
+                .HasMany(t => t.Servicos)
+                .WithMany(s => s.TipoServicos);
         }
     }
 }
